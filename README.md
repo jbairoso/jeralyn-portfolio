@@ -34,6 +34,7 @@
 ## Deployed Link
 https://jbairoso.github.io/jeralyn-portfolio
 
-## Screenshot of Website
+## Snapshot of Website
 Work in progress...
+
 ![Screenshot](./src/assets/images/SS.png)
